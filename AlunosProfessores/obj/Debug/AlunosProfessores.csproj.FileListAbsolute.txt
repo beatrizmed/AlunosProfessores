@@ -1,0 +1,16 @@
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\bin\Debug\AlunosProfessores.exe.config
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\bin\Debug\AlunosProfessores.exe
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\bin\Debug\AlunosProfessores.pdb
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.csproj.AssemblyReference.cache
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.csproj.SuggestedBindingRedirects.cache
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.alunos.resources
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.Form1.resources
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.Properties.Resources.resources
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.csproj.GenerateResource.cache
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.csproj.CoreCompileInputs.cache
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.exe
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.pdb
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.Professores.resources
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\obj\Debug\AlunosProfessores.Turmas.resources
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\bin\Debug\bd_cad.mdf
+C:\Users\anbea\Documents\AlunosProfessores\AlunosProfessores\bin\Debug\bd_cad_log.ldf
